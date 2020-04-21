@@ -52,7 +52,7 @@ export default {
       src: require('../assets/FourStrongWinds-NeilYoung.mp3')
         },
         {
-      title: 'Cant Help Falling in Love',
+      title: 'Can\'t Help Falling in Love',
       artist: 'Elvis Presley',
       src: require('../assets/CantHelpFallingInLove-ElvisPresley.mp3')
         }
